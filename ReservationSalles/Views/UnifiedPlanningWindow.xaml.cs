@@ -34,6 +34,7 @@ namespace ReservationSalles.Views
             InitializeComponent();
             LoadAllData(); // Charger les données
 
+
             // S'assurer que _displayedReservations est initialisé même si _allReservations est vide
             _displayedReservations = new List<Reservation>(_allReservations ?? Enumerable.Empty<Reservation>());
 
