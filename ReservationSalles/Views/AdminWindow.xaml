@@ -1,0 +1,198 @@
+﻿<Window x:Class="ReservationSalles.Views.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:ReservationSalles.ViewModels"
+        Title="Administration"
+        Height="600" Width="800"  WindowStartupLocation="CenterScreen">
+
+    <Window.DataContext>
+        <vm:AdminViewModel />
+    </Window.DataContext>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TabControl Grid.Row="0">
+            <TabItem Header="Utilisateurs">
+                <Grid Margin="5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Border Grid.Row="0" BorderBrush="Gray" BorderThickness="1" Padding="10" Margin="0,0,0,5">
+                        <StackPanel Orientation="Vertical">
+                            <TextBlock Text="Ajouter un nouvel utilisateur :" FontWeight="Bold" Margin="0,0,0,5"/>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+
+                                <TextBlock Grid.Row="0" Grid.Column="0" Text="Username:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                                <TextBox Grid.Row="0" Grid.Column="1" Width="150" Margin="0,2"
+                                         Text="{Binding NewUsername, UpdateSourceTrigger=PropertyChanged}" />
+
+                                <TextBlock Grid.Row="1" Grid.Column="0" Text="Password:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                                <TextBox Grid.Row="1" Grid.Column="1" Width="150" Margin="0,2"
+                                         Text="{Binding NewPassword, UpdateSourceTrigger=PropertyChanged}" />
+
+                                <TextBlock Grid.Row="0" Grid.Column="2" Text="Rôle:" VerticalAlignment="Center" Margin="10,0,5,0"/>
+                                <ComboBox Grid.Row="0" Grid.Column="3" Width="100" Margin="0,2"
+                                          SelectedValue="{Binding NewRole, UpdateSourceTrigger=PropertyChanged}"
+                                          SelectedValuePath="Content">
+                                    <ComboBoxItem Content="Admin" />
+                                    <ComboBoxItem Content="User" />
+                                </ComboBox>
+
+                                <Button Grid.Row="2" Grid.Column="3" Content="Ajouter Utilisateur" HorizontalAlignment="Right" Margin="0,10,0,0"
+                                        Command="{Binding AddUserCommand}"
+                                        Width="130"/>
+                            </Grid>
+                        </StackPanel>
+                    </Border>
+
+                    <TextBlock Grid.Row="1" Text="{Binding UserManagementMessage}" Foreground="Green" Margin="0,5,0,5"/>
+
+                    <DataGrid Grid.Row="2" Margin="0,5,0,0"
+                              ItemsSource="{Binding Users}"
+                              AutoGenerateColumns="False"
+                              SelectedItem="{Binding SelectedUser}"
+                              IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Username" Binding="{Binding Username}" Width="*" />
+                            <DataGridTextColumn Header="Rôle" Binding="{Binding Role}" Width="*" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <Button Grid.Row="3"
+                            Content="Supprimer l'utilisateur sélectionné"
+                            Command="{Binding RemoveUserCommand}"
+                            HorizontalAlignment="Right"
+                            Margin="0,10,0,0"/>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Salles">
+                <Grid Margin="5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Border Grid.Row="0" BorderBrush="Gray" BorderThickness="1" Padding="10" Margin="0,0,0,5">
+                        <StackPanel Orientation="Vertical">
+                            <TextBlock Text="Ajouter une nouvelle salle :" FontWeight="Bold" Margin="0,0,0,5"/>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+
+                                <TextBlock Grid.Row="0" Grid.Column="0" Text="Nom:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                                <TextBox Grid.Row="0" Grid.Column="1" Width="200" Margin="0,2"
+                                         Text="{Binding NewRoomName, UpdateSourceTrigger=PropertyChanged}" />
+
+                                <TextBlock Grid.Row="0" Grid.Column="2" Text="Capacité:" VerticalAlignment="Center" Margin="10,0,5,0"/>
+                                <TextBox Grid.Row="0" Grid.Column="3" Width="80" Margin="0,2"
+                                         Text="{Binding NewRoomCapacityString, UpdateSourceTrigger=PropertyChanged}" />
+
+                                <Button Grid.Row="1" Grid.Column="4" Content="Ajouter Salle" HorizontalAlignment="Right" Margin="10,10,0,0"
+                                        Command="{Binding AddRoomCommand}"
+                                        Width="130"/>
+                            </Grid>
+                        </StackPanel>
+                    </Border>
+
+                    <TextBlock Grid.Row="1" Text="{Binding RoomManagementMessage}" Foreground="Green" Margin="0,5,0,5"/>
+
+                    <DataGrid Grid.Row="2" Margin="0,5,0,0"
+                              ItemsSource="{Binding Rooms}"
+                              AutoGenerateColumns="False"
+                              SelectedItem="{Binding SelectedRoom}"
+                              IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Nom" Binding="{Binding Name}" Width="*" />
+                            <DataGridTextColumn Header="Capacité" Binding="{Binding Capacity}" Width="100" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <Button Grid.Row="3"
+                            Content="Supprimer la salle sélectionnée"
+                            Command="{Binding RemoveRoomCommand}"
+                            HorizontalAlignment="Right"
+                            Margin="0,10,0,0"/>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Réservations">
+                <Grid Margin="5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0" Text="{Binding ReservationManagementMessage}" Foreground="Green" Margin="0,5,0,5"/>
+
+                    <DataGrid Grid.Row="1" Margin="0,5,0,0"
+                              ItemsSource="{Binding Reservations}"
+                              AutoGenerateColumns="False"
+                              SelectedItem="{Binding SelectedReservation}"
+                              IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Salle" Binding="{Binding Room.Name}" Width="1.5*"/>
+                            <DataGridTextColumn Header="Début" Binding="{Binding StartTime, StringFormat={}{0:dd/MM/yyyy HH:mm}}" Width="1.5*"/>
+                            <DataGridTextColumn Header="Fin" Binding="{Binding EndTime, StringFormat={}{0:dd/MM/yyyy HH:mm}}" Width="1.5*"/>
+                            <DataGridTextColumn Header="Gérant" Width="*">
+                                <DataGridTextColumn.ElementStyle>
+                                    <Style TargetType="TextBlock">
+                                        <Setter Property="Text">
+                                            <Setter.Value>
+                                                <MultiBinding StringFormat="{}{0} {1}">
+                                                    <Binding Path="AttendeeLastName"/>
+                                                    <Binding Path="AttendeeFirstName"/>
+                                                </MultiBinding>
+                                            </Setter.Value>
+                                        </Setter>
+                                    </Style>
+                                </DataGridTextColumn.ElementStyle>
+                            </DataGridTextColumn>
+                            <DataGridTextColumn Header="Objet" Binding="{Binding MeetingSubject}" Width="2*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+                        <Button Content="Modifier Réservation" Command="{Binding ModifyReservationCommand}" Margin="0,0,10,0"/>
+                        <Button Content="Supprimer Réservation" Command="{Binding RemoveReservationCommandAdmin}"/>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+
+        <Button Grid.Row="1" Content="Rafraîchir Toutes les Données" Command="{Binding RefreshAllCommand}" HorizontalAlignment="Left" Margin="10,10,0,0"/>
+
+    </Grid>
+</Window>

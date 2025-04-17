@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReservationSalles": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\ReservationSalles\\ReservationSalles\\bin\\Debug\\net8.0-windows"
+    }
+  }
+}

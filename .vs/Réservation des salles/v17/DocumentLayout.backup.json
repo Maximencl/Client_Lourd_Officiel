@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\reservationsalles.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\ReservationSalles.csproj|solutionrelative:r\u00E9servation des salles\\reservationsalles.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\reservationsalles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\ReservationSalles.csproj|solutionrelative:r\u00E9servation des salles\\reservationsalles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|c:\\users\\maison\\desktop\\projet client lourd\\r\u00E9servation des salles\\r\u00E9servation des salles\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|R\u00E9servation des salles\\R\u00E9servation des salles.csproj|solutionrelative:r\u00E9servation des salles\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationSalles",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\ReservationSalles.csproj",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\ReservationSalles.csproj",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\ReservationSalles.csproj",
+              "RelativeToolTip": "R\u00E9servation des salles\\ReservationSalles.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T09:31:12.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "R\u00E9servation des salles\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:04:52.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "R\u00E9servation des salles\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:55:42.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\AssemblyInfo.cs",
+              "RelativeToolTip": "R\u00E9servation des salles\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:15:07.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "R\u00E9servation des salles\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-17T09:04:31.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\App.xaml.cs",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\App.xaml.cs",
+              "RelativeToolTip": "R\u00E9servation des salles\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:48:15.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Models\\User.cs",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Models\\User.cs",
+              "RelativeToolTip": "R\u00E9servation des salles\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:52:49.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservationSalles.csproj",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\ReservationSalles.csproj",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\ReservationSalles.csproj",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\ReservationSalles.csproj*",
+              "RelativeToolTip": "R\u00E9servation des salles\\ReservationSalles.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T08:48:58.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\App.xaml",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\App.xaml",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\App.xaml",
+              "RelativeToolTip": "R\u00E9servation des salles\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-17T08:47:59.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "R\u00E9servation des salles\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:47:20.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "R\u00E9servation des salles\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-17T08:47:24.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "R\u00E9servation des salles\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAA6wFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:56:08.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Services\\DataService.cs",
+              "RelativeToolTip": "R\u00E9servation des salles\\Services\\DataService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:54:55.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Models\\Reservation.cs",
+              "RelativeToolTip": "R\u00E9servation des salles\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:54:04.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Models\\Room.cs",
+              "RelativeToolTip": "R\u00E9servation des salles\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:53:36.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "R\u00E9servation des salles\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:51:09.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "R\u00E9servation des salles\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd\\R\u00E9servation des salles\\R\u00E9servation des salles\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "R\u00E9servation des salles\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:49:48.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

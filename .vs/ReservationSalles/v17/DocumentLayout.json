@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\views\\unifiedplanningwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\views\\unifiedplanningwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\views\\unifiedplanningwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\views\\unifiedplanningwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\data\\reservationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\data\\reservationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\migrations\\reservationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\migrations\\reservationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\migrations\\20250219141618_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\migrations\\20250219141618_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\migrations\\20250219151824_syncschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\migrations\\20250219151824_syncschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\services\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\services\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\views\\editreservationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\views\\editreservationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\reservationsalles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\reservationsalles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\views\\editreservationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\views\\editreservationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\converters\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\converters\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|c:\\users\\maison\\desktop\\projet client lourd officiel\\reservationsalles\\reservationsalles\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B7158C-2CF4-4FBE-8910-8562AC659820}|ReservationSalles\\ReservationSalles.csproj|solutionrelative:reservationsalles\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ReservationSalles\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAuwGgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:51:25.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ReservationSalles\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAAAEYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:05:32.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnifiedPlanningWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\UnifiedPlanningWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Views\\UnifiedPlanningWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\UnifiedPlanningWindow.xaml.cs",
+              "RelativeToolTip": "ReservationSalles\\Views\\UnifiedPlanningWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:29:02.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "ReservationSalles\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:09:39.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "ReservationSalles\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:11:25.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\ViewModels\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\ViewModels\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\ViewModels\\AdminViewModel.cs",
+              "RelativeToolTip": "ReservationSalles\\ViewModels\\AdminViewModel.cs",
+              "ViewState": "AgIAAJMBAAAAAAAAAAAmwJ0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:50:40.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnifiedPlanningWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\UnifiedPlanningWindow.xaml",
+              "RelativeDocumentMoniker": "ReservationSalles\\Views\\UnifiedPlanningWindow.xaml",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\UnifiedPlanningWindow.xaml",
+              "RelativeToolTip": "ReservationSalles\\Views\\UnifiedPlanningWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:29:05.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\App.xaml.cs",
+              "RelativeToolTip": "ReservationSalles\\App.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:43:35.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Services\\DataService.cs",
+              "RelativeToolTip": "ReservationSalles\\Services\\DataService.cs",
+              "ViewState": "AgIAACYDAAAAAAAAAAAmwDQDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:38:50.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250219141618_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Migrations\\20250219141618_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Migrations\\20250219141618_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Migrations\\20250219141618_InitialCreate.cs",
+              "RelativeToolTip": "ReservationSalles\\Migrations\\20250219141618_InitialCreate.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:16:19.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ReservationSalles\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:51:24.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReservationContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Migrations\\ReservationContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Migrations\\ReservationContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Migrations\\ReservationContextModelSnapshot.cs",
+              "RelativeToolTip": "ReservationSalles\\Migrations\\ReservationContextModelSnapshot.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:14:03.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Data\\ReservationContext.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Data\\ReservationContext.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Data\\ReservationContext.cs",
+              "RelativeToolTip": "ReservationSalles\\Data\\ReservationContext.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAkwAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:02:22.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250219151824_SyncSchema.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Migrations\\20250219151824_SyncSchema.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Migrations\\20250219151824_SyncSchema.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Migrations\\20250219151824_SyncSchema.cs",
+              "RelativeToolTip": "ReservationSalles\\Migrations\\20250219151824_SyncSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T15:18:25.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SecurityHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Services\\SecurityHelper.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Services\\SecurityHelper.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Services\\SecurityHelper.cs",
+              "RelativeToolTip": "ReservationSalles\\Services\\SecurityHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:17:43.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ReservationSalles\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "ReservationSalles\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:55:33.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ReservationSalles\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAIBQwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:18:12.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Models\\User.cs",
+              "RelativeToolTip": "ReservationSalles\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:48:16.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Models\\Room.cs",
+              "RelativeToolTip": "ReservationSalles\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:48:06.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Models\\Reservation.cs",
+              "RelativeToolTip": "ReservationSalles\\Models\\Reservation.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:47:53.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "ReservationSalles\\Views\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\AdminWindow.xaml",
+              "RelativeToolTip": "ReservationSalles\\Views\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:54:50.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Views\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "ReservationSalles\\Views\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:55:13.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ReservationSalles\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "ReservationSalles\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:17:55.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditReservationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\EditReservationWindow.xaml",
+              "RelativeDocumentMoniker": "ReservationSalles\\Views\\EditReservationWindow.xaml",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\EditReservationWindow.xaml",
+              "RelativeToolTip": "ReservationSalles\\Views\\EditReservationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T12:37:55.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\App.xaml",
+              "RelativeDocumentMoniker": "ReservationSalles\\App.xaml",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\App.xaml",
+              "RelativeToolTip": "ReservationSalles\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T11:06:26.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReservationSalles.csproj",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\ReservationSalles.csproj",
+              "RelativeDocumentMoniker": "ReservationSalles\\ReservationSalles.csproj",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\ReservationSalles.csproj",
+              "RelativeToolTip": "ReservationSalles\\ReservationSalles.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T09:18:25.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditReservationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\EditReservationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Views\\EditReservationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\EditReservationWindow.xaml.cs",
+              "RelativeToolTip": "ReservationSalles\\Views\\EditReservationWindow.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:38:25.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BooleanToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Converters\\BooleanToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Converters\\BooleanToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Converters\\BooleanToVisibilityConverter.cs",
+              "RelativeToolTip": "ReservationSalles\\Converters\\BooleanToVisibilityConverter.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:37:32.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Logging\\Logger.cs",
+              "RelativeDocumentMoniker": "ReservationSalles\\Logging\\Logger.cs",
+              "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Logging\\Logger.cs",
+              "RelativeToolTip": "ReservationSalles\\Logging\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:19:03.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

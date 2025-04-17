@@ -1,0 +1,20 @@
+﻿ReservationSalles
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Maison\Desktop\Projet Client Lourd Officiel\ReservationSalles\ReservationSalles\obj\Debug\net8.0-windows\
+ReservationSalles
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\Maison\Desktop\Projet Client Lourd Officiel\ReservationSalles\ReservationSalles\App.xaml
+52096999987
+
+281462522843
+217-1712904596
+Views\AdminWindow.xaml;Views\EditReservationWindow.xaml;Views\LoginWindow.xaml;Views\MainWindow.xaml;Views\UnifiedPlanningWindow.xaml;
+
+False
+
