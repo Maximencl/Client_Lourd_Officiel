@@ -154,3 +154,4 @@ C:\Users\Maison\Desktop\Projet Client Lourd Officiel\ReservationSalles\Reservati
 C:\Users\Maison\Desktop\Projet Client Lourd Officiel\ReservationSalles\ReservationSalles\obj\Debug\net8.0-windows\ReservationSalles.pdb
 C:\Users\Maison\Desktop\Projet Client Lourd Officiel\ReservationSalles\ReservationSalles\obj\Debug\net8.0-windows\ReservationSalles.genruntimeconfig.cache
 C:\Users\Maison\Desktop\Projet Client Lourd Officiel\ReservationSalles\ReservationSalles\obj\Debug\net8.0-windows\ref\ReservationSalles.dll
+C:\Users\Maison\Desktop\Projet Client Lourd Officiel\ReservationSalles\ReservationSalles\obj\Debug\net8.0-windows\ReservationSalles.sourcelink.json

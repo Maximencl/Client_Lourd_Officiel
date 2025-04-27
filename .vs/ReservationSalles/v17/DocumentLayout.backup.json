@@ -151,8 +151,7 @@
               "RelativeToolTip": "ReservationSalles\\ViewModels\\MainViewModel.cs",
               "ViewState": "AgIAADkBAAAAAAAAAAAAAEYBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:05:32.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T13:05:32.669Z"
             },
             {
               "$type": "Document",
@@ -162,7 +161,7 @@
               "RelativeDocumentMoniker": "ReservationSalles\\Views\\UnifiedPlanningWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\UnifiedPlanningWindow.xaml.cs",
               "RelativeToolTip": "ReservationSalles\\Views\\UnifiedPlanningWindow.xaml.cs",
-              "ViewState": "AgIAAAcCAAAAAAAAAAAiwC4CAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T13:29:02.901Z",
               "EditorCaption": ""
@@ -177,8 +176,7 @@
               "RelativeToolTip": "ReservationSalles\\Commands\\RelayCommand.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T11:09:39.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T11:09:39.397Z"
             },
             {
               "$type": "Document",
@@ -190,8 +188,7 @@
               "RelativeToolTip": "ReservationSalles\\ViewModels\\BaseViewModel.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T11:11:25.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T11:11:25.644Z"
             },
             {
               "$type": "Document",
@@ -203,8 +200,7 @@
               "RelativeToolTip": "ReservationSalles\\ViewModels\\AdminViewModel.cs",
               "ViewState": "AgIAAJMBAAAAAAAAAAAmwJ0BAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:50:40.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T13:50:40.72Z"
             },
             {
               "$type": "Document",
@@ -215,8 +211,7 @@
               "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\UnifiedPlanningWindow.xaml",
               "RelativeToolTip": "ReservationSalles\\Views\\UnifiedPlanningWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-19T13:29:05.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T13:29:05.195Z"
             },
             {
               "$type": "Document",
@@ -241,8 +236,7 @@
               "RelativeToolTip": "ReservationSalles\\Services\\DataService.cs",
               "ViewState": "AgIAACYDAAAAAAAAAAAmwDQDAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:38:50.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T13:38:50.888Z"
             },
             {
               "$type": "Document",
@@ -254,8 +248,7 @@
               "RelativeToolTip": "ReservationSalles\\Migrations\\20250219141618_InitialCreate.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T14:16:19.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T14:16:19.529Z"
             },
             {
               "$type": "Document",
@@ -267,8 +260,7 @@
               "RelativeToolTip": "ReservationSalles\\Views\\LoginWindow.xaml.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:51:24.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T13:51:24.328Z"
             },
             {
               "$type": "Document",
@@ -280,8 +272,7 @@
               "RelativeToolTip": "ReservationSalles\\Migrations\\ReservationContextModelSnapshot.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:14:03.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T12:14:03.97Z"
             },
             {
               "$type": "Document",
@@ -293,8 +284,7 @@
               "RelativeToolTip": "ReservationSalles\\Data\\ReservationContext.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAkwAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T14:02:22.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T14:02:22.741Z"
             },
             {
               "$type": "Document",
@@ -306,8 +296,7 @@
               "RelativeToolTip": "ReservationSalles\\Migrations\\20250219151824_SyncSchema.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T15:18:25.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T15:18:25.442Z"
             },
             {
               "$type": "Document",
@@ -319,8 +308,7 @@
               "RelativeToolTip": "ReservationSalles\\Services\\SecurityHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:17:43.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:17:43.177Z"
             },
             {
               "$type": "Document",
@@ -331,8 +319,7 @@
               "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\LoginWindow.xaml",
               "RelativeToolTip": "ReservationSalles\\Views\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-19T13:55:33.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T13:55:33.741Z"
             },
             {
               "$type": "Document",
@@ -344,8 +331,7 @@
               "RelativeToolTip": "ReservationSalles\\Views\\MainWindow.xaml.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAIBQwGEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:18:12.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T13:18:12.397Z"
             },
             {
               "$type": "Document",
@@ -357,8 +343,7 @@
               "RelativeToolTip": "ReservationSalles\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:48:16.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T13:48:16.198Z"
             },
             {
               "$type": "Document",
@@ -370,8 +355,7 @@
               "RelativeToolTip": "ReservationSalles\\Models\\Room.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:48:06.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T13:48:06.849Z"
             },
             {
               "$type": "Document",
@@ -383,8 +367,7 @@
               "RelativeToolTip": "ReservationSalles\\Models\\Reservation.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAwDYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:47:53.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T13:47:53.598Z"
             },
             {
               "$type": "Document",
@@ -395,8 +378,7 @@
               "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\AdminWindow.xaml",
               "RelativeToolTip": "ReservationSalles\\Views\\AdminWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-19T13:54:50.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T13:54:50.228Z"
             },
             {
               "$type": "Document",
@@ -408,8 +390,7 @@
               "RelativeToolTip": "ReservationSalles\\Views\\AdminWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:55:13.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T13:55:13.109Z"
             },
             {
               "$type": "Document",
@@ -420,8 +401,7 @@
               "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\MainWindow.xaml",
               "RelativeToolTip": "ReservationSalles\\Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-19T13:17:55.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T13:17:55.481Z"
             },
             {
               "$type": "Document",
@@ -432,8 +412,7 @@
               "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\Views\\EditReservationWindow.xaml",
               "RelativeToolTip": "ReservationSalles\\Views\\EditReservationWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-20T12:37:55.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:37:55.467Z"
             },
             {
               "$type": "Document",
@@ -444,8 +423,7 @@
               "ToolTip": "C:\\Users\\Maison\\Desktop\\Projet Client Lourd Officiel\\ReservationSalles\\ReservationSalles\\App.xaml",
               "RelativeToolTip": "ReservationSalles\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-19T11:06:26.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T11:06:26.074Z"
             },
             {
               "$type": "Document",
@@ -457,8 +435,7 @@
               "RelativeToolTip": "ReservationSalles\\ReservationSalles.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAABBwAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-20T09:18:25.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:18:25.638Z"
             },
             {
               "$type": "Document",
@@ -470,8 +447,7 @@
               "RelativeToolTip": "ReservationSalles\\Views\\EditReservationWindow.xaml.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAAwEYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:38:25.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:38:25.171Z"
             },
             {
               "$type": "Document",
@@ -483,8 +459,7 @@
               "RelativeToolTip": "ReservationSalles\\Converters\\BooleanToVisibilityConverter.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAUwCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:37:32.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:37:32.074Z"
             },
             {
               "$type": "Document",
@@ -496,8 +471,7 @@
               "RelativeToolTip": "ReservationSalles\\Logging\\Logger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:19:03.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:19:03.279Z"
             }
           ]
         }
